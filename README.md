@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a95e58465f9d800f7c1c4bd3527703cee06618990aafd510af95e23cce579f96/68747470733a2f2f7777772e7561742e6564752f6d656469612f646174612d736369656e63652d62616e6e65722e706e67" alt="Profile Photo" height="500" width="500"/>
+  <img src="https://camo.githubusercontent.com/a95e58465f9d800f7c1c4bd3527703cee06618990aafd510af95e23cce579f96/68747470733a2f2f7777772e7561742e6564752f6d656469612f646174612d736369656e63652d62616e6e65722e706e67" alt="Profile Photo" height="200" width="800"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
@@ -19,7 +19,7 @@
 
 <p align="left">
   <!-- Enlarge the GIF here -->
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Animation" height="220" width="300" align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Animation" height="400" width="500" align="right">
 
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
