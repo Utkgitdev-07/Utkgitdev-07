@@ -2,8 +2,6 @@
   <img src="https://camo.githubusercontent.com/a95e58465f9d800f7c1c4bd3527703cee06618990aafd510af95e23cce579f96/68747470733a2f2f7777772e7561742e6564752f6d656469612f646174612d736369656e63652d62616e6e65722e706e67" alt="Profile Photo" height="200" width="200"/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
-
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
 <h3 align="center">Machine Learning | Data Science Enthusiast from India</h3>
 
@@ -16,8 +14,6 @@
 <h3 align="left">⚡ Skills</h3>
 
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="GIF" height="150" style="margin-bottom: 20px; margin-right: 20px; float: left;">
-
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/> </a>
