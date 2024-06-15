@@ -4,22 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkgitdev-07&label=Profile%20views&color=0e75b6&style=flat" alt="utkgitdev-07" /> </p>
 
 - 🔭 I’m currently working on **Something Special... 😉**
-
 - 🌱 I’m currently learning **Pytorch, NLP, OpenCV, BigData**
-
 - 💬 Ask me about **Machine Learning Algorithms, Tensorflow, Pandas, Python, C++, Deep Learning**
 
-- 📫 How to reach me **utkarshyadav72a@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@utkarsh09134649" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@utkarsh09134649" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utkarsh-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh yadav" height="30" width="40" /></a>
-<a href="https://kaggle.com/utkarshyadav07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="utkarshyadav07" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_utkarsh_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_utkarsh_yadav" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Skills:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -50,3 +38,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkgitdev-07&show_icons=true&locale=en" alt="utkgitdev-07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkgitdev-07&" alt="utkgitdev-07" /></p>
+
+<h3 align="left">📫 How to reach me?</h3>
+<p align="left">
+⦿ Follow me on Kaggle 🌐: <a href="https://www.kaggle.com/utkarshyadav07">utkarshyadav07</a><br>
+⦿ Connect with me on LinkedIn 👨🏻‍💻: <a href="https://www.linkedin.com/in/utkarsh-yadav-9b3089252/">utkarsh yadav</a><br>
+⦿ Follow me on Twitter 🐦: <a href="https://twitter.com/Utkarsh09134649">@utkarsh09134649</a><br>
+⦿ Shoot Me an Email 💌: utkarshyadav72a@gmail.com
+</p>
