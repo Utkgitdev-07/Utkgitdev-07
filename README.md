@@ -74,11 +74,12 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" alt="aws" width="120" height="80"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkgitdev-07&show_icons=true&locale=en&layout=compact" alt="utkgitdev-07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkgitdev-07&show_icons=true&locale=en&layout=compact&theme=dark" alt="utkgitdev-07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkgitdev-07&show_icons=true&locale=en" alt="utkgitdev-07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkgitdev-07&show_icons=true&locale=en&theme=dark" alt="utkgitdev-07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkgitdev-07&" alt="utkgitdev-07" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkgitdev-07&theme=dark" alt="utkgitdev-07" /></p>
+
 
 <h3 align="left">📫 How to reach me?</h3>
 <p align="left">
