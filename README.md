@@ -71,7 +71,7 @@
 
 <h3 align="left">Cloud:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" alt="aws" width="90" height="80"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" alt="aws" width="120" height="80"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkgitdev-07&show_icons=true&locale=en&layout=compact" alt="utkgitdev-07" /></p>
