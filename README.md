@@ -86,5 +86,5 @@
 ⦿ Follow me on Kaggle 🌐: <a href="https://www.kaggle.com/utkarshyadav07">Kaggle</a><br>
 ⦿ Connect with me on LinkedIn 👨🏻‍💻: <a href="https://www.linkedin.com/in/utkarsh-yadav-9b3089252/">LinkedIn</a><br>
 ⦿ Follow me on Twitter 🐦: <a href="https://twitter.com/Utkarsh09134649">Twitter</a><br>
-⦿ Shoot Me an Email 💌: <a href="utkarshyadav72a@gmail.com"></a><br> 
+⦿ Shoot Me an Email 💌: <a href="utkarshyadav72a@gmail.com">utkarshyadav72a@gmail.com</a><br> 
 </p>
