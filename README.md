@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/a95e58465f9d800f7c1c4bd3527703cee06618990aafd510af95e23cce579f96/68747470733a2f2f7777772e7561742e6564752f6d656469612f646174612d736369656e63652d62616e6e65722e706e67" alt="Profile Photo" height="300" width="950"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS9_2vjB_Xk1h39iuLtZWXqtmvr6f_ymZsNSQ25O5esdtUIYlXqV27wBf3GAIHQrjUi9CkOxOd_zZnDcfcQr3nRlLE0mO0ZoCVBBfcRkxbJFRvsoYDsfwOVz6asnRqzqj3g5gGPkkWg1IyyvELaiQyrO7BuSVkdvfhOJ9hGrlnoRklle-4IUMPXRl2ag/s1537/What-is-data-science.png" alt="Profile Photo" height="350" width="950"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
