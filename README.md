@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="60" height="60"/>
+    <img src="[https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.schoolofit.co.za%2Fflask-courses%2F&psig=AOvVaw0JhAudDrQdUn-3pK3Xin0K&ust=1730894010921000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCsnpmRxYkDFQAAAAAdAAAAABAE)" alt="flask" width="60" height="60"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
