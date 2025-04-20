@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
-I am [Utkarsh], a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️,Natural Language Processing🤖,Machine Learning, OpenCV and Deep Learning.
+I am Utkarsh, a passionate and creative developer from <a href="https://en.wikipedia.org/wiki/India" target="_blank">🇮🇳</a>  with a strong intrest in DevOps⚙️,Natural Language Processing🤖,Machine Learning, OpenCV and Deep Learning.
 <br><br>
 
 <div align="center">
@@ -91,9 +91,9 @@ Currently exploring opportunities in Data Science, Machine Learning Engineering,
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkgitdev-07&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="380" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkgitdev-07&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="280" height="150"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=utkgitdev-07&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="505" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utkgitdev-07&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="405" height="150"/>
 
 </div>
 
