@@ -91,9 +91,9 @@ Currently exploring opportunities in Data Science, Machine Learning Engineering,
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkgitdev-07&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="280" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkgitdev-07&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="330" height="200"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=utkgitdev-07&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="405" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utkgitdev-07&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="455" height="200"/>
 
 </div>
 
