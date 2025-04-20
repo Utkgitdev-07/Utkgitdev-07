@@ -3,13 +3,26 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
-<h3 align="center">Machine Learning | Data Science Enthusiast from India</h3>
+I am [Utkarsh], a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️,Natural Language Processing🤖,Machine Learning, OpenCV and Deep Learning.
+<br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkgitdev-07&label=Profile%20views&color=0e75b6&style=flat" alt="utkgitdev-07" /> </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkgitdev-07&theme=dark" alt="utkgitdev-07" />
+</div>
+<br><br>
+I ❤️ turning complex mathematical ideas into practical ML/DL models and deploying them using tools like Docker, AWS, Flask, and GitHub Actions.Whether it's deploying scalable AI pipelines in the cloud or optimizing models with statistical precision, I thrive at the crossroads of theory and production.
 
-- 🔭 I’m currently working on **Something Special... 😉**
-- 🌱 I’m currently learning **Pytorch, NLP, OpenCV, BigData**
-- 💬 Ask me about **Machine Learning Algorithms, Tensorflow, Pandas, Python, C++, Deep Learning**
+With hands-on experience in tools like AWS, Docker, Flask, and GitHub Actions, I specialize in building intelligent systems that aren’t just accurate—but also robust, reproducible, and deployment-ready. My work spans across Natural Language Processing, Computer Vision, and MLOps, backed by a strong foundation in statistics, linear algebra, and probability, and I often find myself bridging the gap between data science and MLOps — designing pipelines that are both explainable and efficient.
+
+Beyond the terminal, I’m actively engaged in the community as a core member of the JUET,JDSC Club.Served as GDSC (Google Developer Student Club) Coordinator at college, organizing technical workshops and fostering a community of student developers (2024-present).Conducted hands-on technical workshops focusing on emerging technologies, enhancing peer learning and skill development across campus.
+
+Currently exploring opportunities in Data Science, Machine Learning Engineering, and Cloud-based AI Systems, I’m always excited to collaborate, learn, and build impactful solutions.
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=utkgitdev-07&label=Profile%20views&color=0e75b6&style=flat" alt="utkgitdev-07" />
+</div>
+
+
 
 <h3 align="left">⚡ Skills:</h3>
 <p align="left">
@@ -74,14 +87,19 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" alt="aws" width="120" height="80"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkgitdev-07&show_icons=true&locale=en&layout=compact&theme=dark" alt="utkgitdev-07" /></p>
+## 📊 Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkgitdev-07&show_icons=true&locale=en&theme=dark" alt="utkgitdev-07" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkgitdev-07&theme=dark" alt="utkgitdev-07" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utkgitdev-07&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" width="380" height="250"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=utkgitdev-07&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="505" height="250"/>
+
+</div>
 
 
-<h3 align="left">📫 How to reach me?</h3>
+
+## 📫 How to reach me?
 <p align="left">
 ⦿ Follow me on Kaggle 🌐: <a href="https://www.kaggle.com/utkarshyadav07">Kaggle</a><br>
 ⦿ Connect with me on LinkedIn 👨🏻‍💻: <a href="https://www.linkedin.com/in/utkarsh-yadav-9b3089252/">LinkedIn</a><br>
