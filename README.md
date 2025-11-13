@@ -3,21 +3,20 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
-I am  <a href="https://utkgitdev-07.github.io/Portfolio//" target="_blank">Utkarsh</a>, a passionate and creative developer from <a href="https://en.wikipedia.org/wiki/India" target="_blank">🇮🇳</a>  with a strong intrest in DevOps⚙️,Natural Language Processing🤖,Machine Learning, OpenCV and Deep Learning.
-<br><br>
-
+I am  <a href="https://utkgitdev-07.github.io/Portfolio//" target="_blank">Utkarsh</a>, a passionate and creative developer from <a href="https://en.wikipedia.org/wiki/India" target="_blank">🇮🇳</a>  who loves building intelligent systems that can think, reason, and act autonomously.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkgitdev-07&theme=dark" alt="utkgitdev-07" />
 </div>
 <br><br>
-I ❤️ turning complex mathematical ideas into practical ML/DL models and deploying them using tools like Docker, AWS, Flask, and GitHub Actions.Whether it's deploying scalable AI pipelines in the cloud or optimizing models with statistical precision, I thrive at the crossroads of theory and production.
+I specialize in Generative AI, Agentic AI, and Retrieval-Augmented Generation (RAG) — developing AI agents that combine reasoning with real-world context. My work often involves orchestrating LLMs using LangChain and LangGraph, backed by vector databases and scalable cloud deployment pipelines.
 
-With hands-on experience in tools like AWS, Docker, Flask, and GitHub Actions, I specialize in building intelligent systems that aren’t just accurate—but also robust, reproducible, and deployment-ready. My work spans across Natural Language Processing, Computer Vision, and MLOps, backed by a strong foundation in statistics, linear algebra, and probability, and I often find myself bridging the gap between data science and MLOps — designing pipelines that are both explainable and efficient.
+I ❤️ transforming abstract AI ideas into working systems — whether it’s creating context-aware RAG chatbots, autonomous research agents, or end-to-end ML workflows. With hands-on experience in AWS, Docker, Flask, and GitHub Actions, I ensure every project I build is scalable, reproducible, and deployment-ready.
 
-Beyond the terminal, I’m actively engaged in the community as a core member of the JUET,JDSC Club.Served as GDSC (Google Developer Student Club) Coordinator at college, organizing technical workshops and fostering a community of student developers (2024-present).Conducted hands-on technical workshops focusing on emerging technologies, enhancing peer learning and skill development across campus.
+My technical interests span LLM orchestration, MLOps/LLMOps, NLP, and Computer Vision, grounded in a solid understanding of statistics, linear algebra, and probability. I thrive at the intersection of data, reasoning, and production engineering — turning experimental AI into reliable systems.
 
-Currently exploring opportunities in Data Science, Machine Learning Engineering, and Cloud-based AI Systems, I’m always excited to collaborate, learn, and build impactful solutions.
+Beyond development, I’m an active community contributor — serving as a core member of JUET JDSC and former GDSC Coordinator, where I’ve led workshops and hackathons on emerging AI technologies and open-source innovation.
 
+🚀 Currently exploring opportunities in Generative AI, LLM Applications, and Cloud-based AI Systems — always eager to collaborate, innovate, and build something truly intelligent.
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=utkgitdev-07&label=Profile%20views&color=0e75b6&style=flat" alt="utkgitdev-07" />
 </div>
