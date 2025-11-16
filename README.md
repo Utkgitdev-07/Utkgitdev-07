@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Utkarsh Yadav</h1>
-I am  <a href="https://utkgitdev-07.github.io/Portfolio//" target="_blank">Utkarsh</a>, a passionate and creative developer from <a href="https://en.wikipedia.org/wiki/India" target="_blank">🇮🇳</a>  who loves building intelligent systems that can think, reason, and act autonomously.
+I am  <a href="https://portfolio-v2-5bul.vercel.app/" target="_blank">Utkarsh</a>, a passionate and creative developer from <a href="https://en.wikipedia.org/wiki/India" target="_blank">🇮🇳</a>  who loves building intelligent systems that can think, reason, and act autonomously.
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkgitdev-07&theme=dark" alt="utkgitdev-07" />
 </div>
