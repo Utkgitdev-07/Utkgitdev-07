@@ -21,70 +21,121 @@ Beyond development, I’m an active community contributor — serving as a core 
   <img src="https://komarev.com/ghpvc/?username=utkgitdev-07&label=Profile%20views&color=0e75b6&style=flat" alt="utkgitdev-07" />
 </div>
 
-
-
 <h3 align="left">⚡ Skills:</h3>
-<p align="left">
-  
-  <!-- Add the GIF before this line -->
-</p>
 
-<p align="left">
-  <!-- Enlarge the GIF here -->
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Animation" height="250" width="350" align="right">
+<!-- GIF on the right -->
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="Animation" height="250" width="350" align="right">
 
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
+<!-- Programming Languages -->
+<h4>🧩 Programming Languages</h4>
+<p>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60" alt="C"/>
   </a>
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQqX699Ii1yOe0IYdJ3SmuIA8DFyIMgRKLQ&s" alt="flask" width="70" height="60"/>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/>
   </a>
 </p>
 
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>
+<!-- DevOps & Version Control -->
+<h4>📦 DevOps & Version Control</h4>
+<p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" alt="Git"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60" height="60" alt="GitHub"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="60" height="60" alt="Docker"/>
   </a>
 </p>
 
-
-
-
-<h3 align="left">Databases:</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" alt="mongodb" width="80" height="90"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
+<!-- AI & ML Stack -->
+<h4>🤖 AI & ML Stack</h4>
+<p>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="60" height="60" alt="PyTorch"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" height="60" alt="TensorFlow"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" height="60" alt="scikit-learn"/>
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="60" height="60" alt="OpenCV"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60" height="60" alt="Seaborn"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60" alt="Pandas"/>
+  </a>
 </p>
 
-<h3 align="left">Cloud:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif" alt="aws" width="120" height="80"/> </a>
+<!-- GenAI / Agentic AI -->
+<h4>🧠 Generative AI & Agentic AI</h4>
+<p>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" width="60" height="60" alt="LangChain"/>
+  </a>
+  <a href="https://langgraph.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/13468728?s=200&v=4" width="60" height="60" alt="LangGraph"/>
+  </a>
+  <a href="https://www.pinecone.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/64128047?s=200&v=4" width="60" height="60" alt="Pinecone"/>
+  </a>
+  <a href="https://python.langchain.com/docs/use_cases/question_answering/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="60" height="60" alt="RAG"/>
+  </a>
+  <a href="https://agentic.ai/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="60" height="60" alt="AI Agents"/>
+  </a>
 </p>
+
+<!-- MLOps -->
+<h4>🔧 MLOps & LLMOps</h4>
+<p>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="60" height="60" alt="GitHub Actions"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="60" height="60" alt="AWS"/>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="60" height="60" alt="Kubernetes"/>
+  </a>
+</p>
+
+<!-- Databases -->
+<h4>🗄️ Databases</h4>
+<p>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" width="80" height="90" alt="MongoDB"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" height="60" alt="PostgreSQL"/>
+  </a>
+</p>
+
+<!-- Backend -->
+<h4>🌐 Backend Frameworks</h4>
+<p>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBQqX699Ii1yOe0IYdJ3SmuIA8DFyIMgRKLQ&s" width="70" height="60" alt="Flask"/>
+  </a>
+</p>
+
 
 ## 📊 Github Stats
 
