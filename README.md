@@ -105,9 +105,7 @@ Beyond development, I’m an active community contributor — serving as a core 
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="60" height="60" alt="AWS"/>
   </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="60" height="60" alt="Kubernetes"/>
-  </a>
+  
 </p>
 
 <!-- Databases -->
