@@ -92,7 +92,7 @@ Beyond development, I’m an active community contributor — serving as a core 
     <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="60" height="60" alt="RAG"/>
   </a>
   <a href="https://agentic.ai/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="60" height="60" alt="AI Agents"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="60" height="60" alt="Agentic AI"/>
   </a>
 </p>
 
