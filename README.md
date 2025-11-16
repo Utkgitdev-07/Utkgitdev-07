@@ -82,10 +82,6 @@ Beyond development, I’m an active community contributor — serving as a core 
 
 <!-- GenAI / Agentic AI -->
 <h4>🧠 Generative AI & Agentic AI</h4>
-<p>
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" width="60" height="60" alt="LangChain"/>
-  </a>
   <a href="https://langgraph.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/13468728?s=200&v=4" width="60" height="60" alt="LangGraph"/>
   </a>
